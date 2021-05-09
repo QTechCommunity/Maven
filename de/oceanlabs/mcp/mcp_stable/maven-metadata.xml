@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>de.oceanlabs.mcp</groupId>
+  <artifactId>mcp_stable</artifactId>
+  <versioning>
+    <release>qtech-1.16.5-19</release>
+    <versions>
+      <version>qtech-1.16.5-19</version>
+    </versions>
+    <lastUpdated>20210509163057</lastUpdated>
+  </versioning>
+</metadata>
