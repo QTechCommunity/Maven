@@ -3,7 +3,7 @@
   <groupId>de.oceanlabs.mcp</groupId>
   <artifactId>mcp_stable</artifactId>
   <versioning>
-    <release>qtech-1.16.5-27</release>
+    <release>qtech-1.16.5-28</release>
     <versions>
       <version>qtech-1.16.5-19</version>
       <version>qtech-1.16.5-21</version>
@@ -13,7 +13,8 @@
       <version>qtech-1.16.5-25</version>
       <version>qtech-1.16.5-26</version>
       <version>qtech-1.16.5-27</version>
+      <version>qtech-1.16.5-28</version>
     </versions>
-    <lastUpdated>20210606231632</lastUpdated>
+    <lastUpdated>20210606232131</lastUpdated>
   </versioning>
 </metadata>
